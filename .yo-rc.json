@@ -24,7 +24,9 @@
     "testFrameworks": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "clientFramework": "react",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "6.9.0",
@@ -36,7 +38,9 @@
     "dtoSuffix": "DTO",
     "otherModules": [],
     "blueprints": [],
-    "prettierJava": true
+    "prettierJava": true,
+    "herokuAppName": "jhipster-conf",
+    "herokuDeployType": "git"
   },
   "git-provider": "GitHub",
   "git-company": "islandman",
